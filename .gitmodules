@@ -4,9 +4,9 @@
 [submodule "game"]
 	path = game
 	url = ./game/.git
-[submodule "history"]
-	path = history
-	url = ./history/.git
+[submodule "history-bovada"]
+	path = history-bovada
+	url = ./history-bovada/.git
 [submodule "history-pokerstars"]
 	path = history-pokerstars
 	url = ./history-pokerstars/.git
