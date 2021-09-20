@@ -16,3 +16,6 @@
 [submodule "example-handhistories"]
 	path = example-handhistories
 	url = ./example-handhistories/.git
+[submodule "xploit-query"]
+	path = xploit-query
+	url = ./xploit-query/.git
