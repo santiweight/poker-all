@@ -19,3 +19,6 @@
 [submodule "xploit-query"]
 	path = xploit-query
 	url = ./xploit-query/.git
+[submodule "xploit-app"]
+	path = xploit-app
+	url = ./xploit-app/
