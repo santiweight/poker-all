@@ -1,24 +1,21 @@
 [submodule "base"]
 	path = base
-	url = ./base/.git
+	url = https://github.com/santiweight/poker
 [submodule "game"]
 	path = game
-	url = ./game/.git
+	url = https://github.com/santiweight/poker-game
 [submodule "history-bovada"]
 	path = history-bovada
-	url = ./history-bovada/.git
+	url = https://github.com/santiweight/poker-handhistory
 [submodule "history-pokerstars"]
 	path = history-pokerstars
-	url = ./history-pokerstars/.git
-[submodule "maison"]
-	path = maison
-	url = ./maison/.git
+	url = https://github.com/santiweight/history-pokerstars
 [submodule "example-handhistories"]
 	path = example-handhistories
-	url = ./example-handhistories/.git
+	url = https://github.com/santiweight/example-handhistories
 [submodule "xploit-query"]
 	path = xploit-query
-	url = ./xploit-query/.git
+	url = https://github.com/santiweight/exploit-haskell
 [submodule "xploit-app"]
 	path = xploit-app
-	url = ./xploit-app/
+	url = https://github.com/santiweight/xploit
