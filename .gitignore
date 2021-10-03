@@ -14,7 +14,6 @@ Exploit.cabal
 /.stack-work/*
 /dist-newstyle
 /FinalReport
-exploit-poker.cabal
 .DS_Store
 dist-newstyle
 FinalReport

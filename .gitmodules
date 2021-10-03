@@ -4,12 +4,6 @@
 [submodule "game"]
 	path = game
 	url = https://github.com/santiweight/poker-game
-[submodule "history-bovada"]
-	path = history-bovada
-	url = https://github.com/santiweight/poker-handhistory
-[submodule "history-pokerstars"]
-	path = history-pokerstars
-	url = https://github.com/santiweight/history-pokerstars
 [submodule "example-handhistories"]
 	path = example-handhistories
 	url = https://github.com/santiweight/example-handhistories
@@ -19,3 +13,6 @@
 [submodule "xploit-app"]
 	path = xploit-app
 	url = https://github.com/santiweight/xploit
+[submodule "poker-histories"]
+	path = poker-histories
+	url = ./poker-histories

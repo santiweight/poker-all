@@ -1,0 +1,14 @@
+cradle:
+  cabal:
+    - path: "./base/src"
+      component: "lib:poker"
+    - path: "./base/test"
+      component: "poker:test:all-tests"
+    - path: "./game/src"
+      component: lib:poker-game
+    - path: "./game/test"
+      component: poker-game:test:all-tests
+    - path: "./poker-histories/src"
+      component: lib:poker-histories
+    - path: "./poker-histories/test"
+      component: poker-histories:test:all-tests
