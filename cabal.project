@@ -1,5 +1,5 @@
 packages:
-  base/poker.cabal
+  base/poker-base.cabal
   game/poker-game.cabal
   poker-histories/poker-histories.cabal
   xploit-query/xploit-query.cabal
