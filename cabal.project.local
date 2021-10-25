@@ -1,0 +1,14 @@
+ignore-project: False
+optimization: False
+
+package poker-base
+  ghc-options: -j +RTS -A128m -n2m -RTS
+
+package poker-game
+  ghc-options: -j +RTS -A128m -n2m -RTS
+
+package poker-histories
+  ghc-options: -j +RTS -A128m -n2m -RTS
+
+package xploit-query
+  ghc-options: -j +RTS -A128m -n2m -RTS
